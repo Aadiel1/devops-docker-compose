@@ -1,5 +1,4 @@
 <h1>MySQL CRUD - Nodejs, Reactjs</h1>
-hhh
 <p>This app allows users to save users with name and email with specific id for everyone, featuring functionalities like create, read, update, delete. It uses MySQL as the database to store users, Express.js for handling server-side logic, React.js for building the user interface, and Node.js for server-side runtime environment. The app provides a seamless experience for users to save users and time.</p>
 <h3>Running the Project Locally</h3>
   <p>To run this project on your local machine, follow these steps:
